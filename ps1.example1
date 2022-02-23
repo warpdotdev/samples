@@ -1,3 +1,0 @@
-> echo $PS1
-%F{magenta}%n%f at %F{yellow}%m%f in %B%F{green}%~%f%b$(git_prompt_info)$(ruby_prompt_info)
-$(virtualenv_info) $(prompt_char)
